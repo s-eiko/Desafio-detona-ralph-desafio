@@ -1,7 +1,7 @@
 # Jogo whac-a-mole: Detona Ralph
 
 ## Sobre
-Jogo whac-a-mole com temática do filme Detona Ralph.
+Jogo whac-a-mole com temática do filme Detona Ralph. Este é um desafio de projeto do bootcamp Front-end do Zero da Dio em parceria com a Ri Happy.
 
 Acesse em: https://s-eiko.github.io/Whac-a-mole-game/
 
